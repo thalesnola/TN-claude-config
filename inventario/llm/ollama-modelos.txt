@@ -1,0 +1,11 @@
+NAME                                              ID              SIZE      MODIFIED       
+nemotron-3.5-bolt:e4b                             69f2be39b309    7.9 GB    53 minutes ago    
+gpt-oss:20b                                       17052f91a42e    13 GB     3 weeks ago       
+nemotron-3.5-lightning:30b-a3b                    e7a64ff15fb1    25 GB     6 weeks ago       
+mxbai-embed-large:latest                          468836162de7    669 MB    8 weeks ago       
+hf.co/unsloth/Qwen3-Coder-Next-GGUF:NOTPL         d73418d1c8cf    36 GB     8 weeks ago       
+hf.co/unsloth/Qwen3-Coder-Next-GGUF:UD-Q3_K_XL    cc20797524d2    36 GB     8 weeks ago       
+qwen3:8b                                          500a1f067a9f    5.2 GB    2 months ago      
+qwen3-coder:30b                                   06c1097efce0    18 GB     3 months ago      
+nomic-embed-text:latest                           0a109f422b47    274 MB    3 months ago      
+ollama version is 0.40.10
